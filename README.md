@@ -93,6 +93,9 @@ npm run dev
 ```
 
 The frontend will start on [http://localhost:5173](http://localhost:5173).
+![image](https://github.com/user-attachments/assets/77cfd763-064a-4469-98fa-96ff9d4d350b)
+![image](https://github.com/user-attachments/assets/ff5b1d1f-cb47-404a-a308-e0a0538c51f9)
+![image](https://github.com/user-attachments/assets/39073bcf-bc59-47f2-ba0e-6f4fba713b55)
 
 ---
 
